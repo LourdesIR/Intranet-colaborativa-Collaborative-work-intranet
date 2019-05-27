@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+#Español - English
 
-You can use the [editor on GitHub](https://github.com/LourdesIR/Intranet-colaborativa-Collaborative-work-intranet/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Intranet Colaborativa para personas con Discapacidad.
+## Collaborative Intranet work for People with disabilities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##### Visual Studio 2017   /   Framework 4.7   /   Window Form   /  C#  /   SQL o Azure
 
-### Markdown
+### Proposito / Purpose
+Este repositorio esta en construccion, y acepta colaboracion de parte de todos. La idea principal de esta aplicacion (por el momento llamada "IntranetUAPCD") es poder construir un espacio virtual de trabajo colaborativo para personas con discapacidad. Se pretende que la misma este constituida por los siguientes componentes y espacios tanto individuales como grupales.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This repository is under construction, and accepts collaboration from everyone. The main idea of this application (for the moment called "IntranetUAPCD") is to be able to build a virtual collaborative work space for people with disabilities. It is intended that it is constituted by the following components and spaces, both individual and group.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Estructura de la aplicacion/ Structure of the application
 
-- Bulleted
-- List
+1 - Ingreso con clave y codigo CUD (Certificado Unico de Discapacidad) / Entry with code and code CUD (Only Certificate of Disability)
+2 - Tablero de Control / Control panel
 
-1. Numbered
-2. List
+**Barra superior / Top Bar**
+        (A) Accesibilidad / Accessibility
+        (B) Usuario / User
+        (C) Iconos (cerrar, minimizar, maximizar) / Icon (close, minimize, maximize)
 
-**Bold** and _Italic_ and `Code` text
+**Barra Lateral / Sidebar**
+        (D) Trabajos / Works
+        (E) Grupos / Groups
+        (F) Calendario / Calendar
+        (G) Herramientas / Tools
+        (H) 
 
-[Link](url) and ![Image](src)
-```
+**Pagina de la :** _Agencia Nacional de Discapacidad_ [A tener en cuenta / to consider](https://www.argentina.gob.ar/andis)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LourdesIR/Intranet-colaborativa-Collaborative-work-intranet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
