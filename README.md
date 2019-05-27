@@ -1,7 +1,6 @@
-#Español - English
+##### Español - English
 
-## Intranet Colaborativa para personas con Discapacidad.
-## Collaborative Intranet work for People with disabilities.
+## Intranet Colaborativa para personas con Discapacidad / Collaborative Intranet work for People with disabilities.
 
 ##### Visual Studio 2017   /   Framework 4.7   /   Window Form   /  C#  /   SQL o Azure
 
@@ -13,20 +12,20 @@ This repository is under construction, and accepts collaboration from everyone. 
 
 ### Estructura de la aplicacion/ Structure of the application
 
-1 - Ingreso con clave y codigo CUD (Certificado Unico de Discapacidad) / Entry with code and code CUD (Only Certificate of Disability)
-2 - Tablero de Control / Control panel
+1- Ingreso con clave y codigo CUD (Certificado Unico de Discapacidad) / Entry with code and code CUD (Only Certificate of Disability)
+2- Tablero de Control / Control panel
 
 **Barra superior / Top Bar**
-        (A) Accesibilidad / Accessibility
-        (B) Usuario / User
-        (C) Iconos (cerrar, minimizar, maximizar) / Icon (close, minimize, maximize)
+        -(A) Accesibilidad / Accessibility
+        -(B) Usuario / User
+        -(C) Iconos (cerrar, minimizar, maximizar) / Icon (close, minimize, maximize)
 
 **Barra Lateral / Sidebar**
-        (D) Trabajos / Works
-        (E) Grupos / Groups
-        (F) Calendario / Calendar
-        (G) Herramientas / Tools
-        (H) 
+        -(D) Trabajos / Works
+        -(E) Grupos / Groups
+        -(F) Calendario / Calendar
+        -(G) Herramientas / Tools
+        -(H) 
 
 **Pagina de la :** _Agencia Nacional de Discapacidad_ [A tener en cuenta / to consider](https://www.argentina.gob.ar/andis)
 
