@@ -23,6 +23,7 @@ This repository is under construction, and accepts collaboration from everyone. 
      <ol>(C) Iconos (cerrar, minimizar, maximizar) / Icon (close, minimize, maximize)</ol>
 </ul>
 **Barra Lateral / Sidebar**
+<ul>
      <ol>(D) Trabajos / Works</ol>
      <ol>(E) Grupos / Groups</ol>
      <ol>(F) Calendario / Calendar</ol>
