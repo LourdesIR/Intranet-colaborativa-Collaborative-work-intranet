@@ -11,10 +11,11 @@ This repository is under construction, and accepts collaboration from everyone. 
 
 
 ### Estructura de la aplicacion/ Structure of the application
-
-1- Ingreso con clave y codigo CUD (Certificado Unico de Discapacidad) / Entry with code and code CUD (Only Certificate of Disability)
-2- Tablero de Control / Control panel
-
+<ul>
+<ol>Ingreso con clave y codigo CUD (Certificado Unico de Discapacidad) / Entry with code and code CUD (Only Certificate of Disability)</ol>
+<ol>Tablero de Control / Control panel
+</ol>
+</ul>
 **Barra superior / Top Bar**
         -(A) Accesibilidad / Accessibility
         -(B) Usuario / User
