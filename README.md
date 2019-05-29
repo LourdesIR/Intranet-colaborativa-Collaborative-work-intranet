@@ -16,13 +16,13 @@ This repository is under construction, and accepts collaboration from everyone. 
 <ol>2- Tablero de Control / Control panel
 </ol>
 </ul>
-#####**Barra superior / Top Bar**
+**Barra superior / Top Bar**
 <ul>
      <ol>(A) Accesibilidad / Accessibility</ol>
      <ol>(B) Usuario / User</ol>
      <ol>(C) Iconos (cerrar, minimizar, maximizar) / Icon (close, minimize, maximize)</ol>
 </ul>
-#####**Barra Lateral / Sidebar**
+**Barra Lateral / Sidebar**
      <ol>(D) Trabajos / Works</ol>
      <ol>(E) Grupos / Groups</ol>
      <ol>(F) Calendario / Calendar</ol>
