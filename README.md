@@ -30,5 +30,10 @@ This repository is under construction, and accepts collaboration from everyone. 
      <ol>(G) Herramientas / Tools</ol>
      <ol>(H) </ol>
 </ul>
+
+#### Páginas / Pages 
 **Pagina de la :** _Agencia Nacional de Discapacidad_ [A tener en cuenta / to consider](https://www.argentina.gob.ar/andis)
+**Página del repositorio** [Repository](https://github.com/LourdesIR/Intranet-colaborativa-Collaborative-work-intranet)
+
+
 
